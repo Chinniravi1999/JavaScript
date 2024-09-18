@@ -1,0 +1,2 @@
+var cu = gs.getUser();
+gs.print(cu.getfirstName());
